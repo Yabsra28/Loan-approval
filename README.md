@@ -1,2 +1,2 @@
 # Loan-approval
-Loan approval prediction on small dataset using RandomForestClassifier and XGBoost Classifier
+Loan approval prediction  using RandomForestClassifier and XGBoost Classifier
